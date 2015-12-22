@@ -1,8 +1,6 @@
 # archinstall
 
-a small script to bootstrap archlinux in minutes.
-
-This repository is kept as simple as possible. Fork it, create your own flavour.
+a small script to bootstrap archlinux in minutes. This is used to bootstrap the Archlinux inexor-machines.
 
 My work is licensed under the MIT-License.
 
@@ -10,7 +8,7 @@ My work is licensed under the MIT-License.
 
 * Download the [Archlinux-ISO](https://www.archlinux.org/download/)
 * Boot the ISO
-* `wget https://git.io/vvkPT`
+* `wget -O install.sh http://git.io/vE3v4`
 * Edit `install.sh`
     * use your favorite editor
     * the values are self-explaining
